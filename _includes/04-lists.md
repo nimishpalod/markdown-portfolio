@@ -1,3 +1,3 @@
-Sleep
-Eat
-Repeate
+* Sleep
+* Eat
+* Repeate
